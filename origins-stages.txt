@@ -1,3 +1,4 @@
+{ Badlands }
 { Enter Sandman }
 { Volcanic Island }
 { Scorched Ruins }
