@@ -39,3 +39,6 @@ swig
 mars505
 -dust
 stuffs
+seebs97
+kyoto
+nextact
