@@ -1,2 +1,2 @@
 Crimson
-<link>
+https://bitbucket.org/Phyrexian/phy-addons-crimson/downloads/
