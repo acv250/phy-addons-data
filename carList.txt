@@ -1,1 +1,21 @@
-{[SF]Morpheus}
+{ Criterion }
+{ Torero }
+{ Tempesta }
+{ Gespenst }
+{ Der Fuhrer }
+{ Heavy Duty }
+{ Cross }
+{ Chaotic }
+{ Titan }
+{ Rival }
+{ Hyperactive }
+{ SSC Aero }
+{ Premier }
+{ Velocitá }
+{ Artifact }
+{ Venomous }
+{ Prestige }
+{ Kinetic }
+{ Entity XF }
+{ Entity XXR }
+{ Quickstorm }
