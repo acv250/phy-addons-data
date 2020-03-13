@@ -44,11 +44,10 @@ stuffs
 seebs97
 kyoto
 nextact
-<<<<<<< HEAD
 prosafiagame
 guipetto
 yeeinator
 shazzy
 rod
-=======
->>>>>>> 923e8006f05ea24d42bd56ea2d4a41f93f5f618b
+adamant
+acv
