@@ -1,2 +1,2 @@
-Cobalt
-https://bitbucket.org/Phyrexian/phy-addons-cobalt/downloads/
+Emerald
+https://bitbucket.org/Phyrexian/phy-addons-emerald/downloads/
