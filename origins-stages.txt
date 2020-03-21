@@ -1,4 +1,7 @@
 { Badlands }
+{ Permafrost Trap }
 { Enter Sandman }
 { Volcanic Island }
-{ Scorched Ruins }
+{ Dragon Tempest }
+{ Barren Moor }
+{ Grave Upheaval }
